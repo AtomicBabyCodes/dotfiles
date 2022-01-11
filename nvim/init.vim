@@ -10,3 +10,5 @@ source $HOME/.config/nvim/plug-config/presence.lua
 source $HOME/.config/nvim/plug-config/colorizer.lua
 source $HOME/.config/nvim/plug-config/treesitter.lua
 source $HOME/.config/nvim/plug-config/gitsigns.lua
+source $HOME/.config/nvim/plug-config/cmp-config.lua
+source $HOME/.config/nvim/plug-config/nvim-tree.lua

@@ -37,3 +37,8 @@ nnoremap <leader>fb <cmd>Telescope buffers<cr>
 
 "LazyGit Shortcut
 nnoremap <leader>g :LazyGit<CR>
+
+"Nvim-tree Shortcuts
+nnoremap <leader>t :NvimTreeToggle<CR>
+nnoremap <leader>r :NvimTreeRefresh<CR>
+

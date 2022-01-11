@@ -31,6 +31,10 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "LazyGit 
     Plug 'kdheepak/lazygit.nvim'
 
+    "Nvim-Tree 
+    Plug 'kyazdani42/nvim-web-devicons' " for file icons
+    Plug 'kyazdani42/nvim-tree.lua'
+
     "Gitsigns
     Plug 'nvim-lua/plenary.nvim'
     Plug 'lewis6991/gitsigns.nvim'
@@ -58,6 +62,11 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "Snippets
     Plug  'L3MON4D3/LuaSnip'
     Plug 'rafamadriz/friendly-snippets'
+    
+    "Lsp
+    Plug 'neovim/nvim-lspconfig'
+    Plug 'williamboman/nvim-lsp-installer'
+
     "Discord Presence
     Plug 'andweeb/presence.nvim'
     call plug#end()
