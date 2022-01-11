@@ -1,0 +1,53 @@
+import:
+  - ~/.config/alacritty/dracula.yml
+# Window Customization
+window:
+  #dimensions:
+  #columns: 90
+  #lines: 30
+  padding:
+    x: 5
+    y: 5
+  decorations: full #Still won't show in a window manger, but will in a desktop environment
+scrolling:
+  history: 10000
+  multiplier: 3
+background_opacity: 1 
+window.dynamic_title: true
+
+# Font Customization
+font:
+  # normal:
+  # family: Hack Nerd Font Mono
+  # style: Regular
+  #bold:
+  # family: Hack Nerd Font Mono
+  # style: Bold
+  #italic:
+  # family: Hack Nerd Font Mono
+  #: style: Italic
+  size: 8
+  offset:
+    x: 0
+    y: 0
+  glyph_offset:
+    x: 0
+    y: 0
+  use_thin_strokes: false
+  debug:
+    persistent_logging: false
+draw_bold_text_with_bright_colors: true
+
+
+cursor:
+  style:
+    shape: Beam
+    blinking: off
+    blink-interval: 750
+    unfocused_hollow: true
+
+key_bindings:
+  - { key: N, mods: Control, action: SpawnNewInstance }
+
+shell:
+  program: /bin/fish

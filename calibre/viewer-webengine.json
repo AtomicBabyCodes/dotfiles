@@ -1,0 +1,86 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAPDAAAAGQAAB3oAAAQyAAADxAAAABoAAAd5AAAEMQAAAAAAAAAAB4AAAAPEAAAAGgAAB3kAAAQx"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJIA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAApgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACUAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAQoA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAGAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAOYA////AAADtgAABBgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-search-settings": {
+    "carefully stepped inside": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "dont think": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "gone for hours": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "instead of a head": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "magic rock": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "piece of god": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "summoned pattern as a shardblade": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "the skull was broken": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "touch a bead": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "white stone platform": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "without stopping": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "you have three choices": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 25,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "sepia-light",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Brandon Sanderson"
+        ],
+        "key": "/run/media/kishlaya/0A5219D40A5219D4/Audiobooks/Sanderson, Brandon - Cosmere/Sanderson, Brandon - Cosmere [eBook Series]/Sanderson, Brandon - Cosmere 20 - The Stormlight Archive 3 - Oathbringer.epub",
+        "pathtoebook": "/run/media/kishlaya/0A5219D40A5219D4/Audiobooks/Sanderson, Brandon - Cosmere/Sanderson, Brandon - Cosmere [eBook Series]/Sanderson, Brandon - Cosmere 20 - The Stormlight Archive 3 - Oathbringer.epub",
+        "timestamp": "2022-01-08T09:10:50.127Z",
+        "title": "Oathbringer"
+      }
+    ]
+  },
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}
