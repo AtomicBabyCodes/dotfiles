@@ -37,6 +37,4 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "BufferLine
     Plug 'akinsho/nvim-bufferline.lua'
 
-    " Keeping up to date with master
-    Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
     call plug#end()
