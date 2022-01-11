@@ -10,7 +10,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     " Better Syntax Support
     Plug 'sheerun/vim-polyglot'
-    Plug 'liuchengxu/vim-clap'
+
+    " Syntax Highlighting 
+    Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+    Plug 'JoosepAlviste/nvim-ts-context-commentstring'
+    Plug 'MaxMEllon/vim-jsx-pretty' " fix indentation in jsx until treesitter can
+    Plug 'jxnblk/vim-mdx-js'
 
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
@@ -19,13 +24,12 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'nvim-lua/popup.nvim'
     Plug 'nvim-lua/plenary.nvim'
     Plug 'nvim-telescope/telescope.nvim'
-
+    
+    "Colorizer
+    Plug 'norcalli/nvim-colorizer.lua'
     
     "Theme
     Plug 'dracula/vim', { 'as': 'dracula' }
-
-    " Stable version of coc
-    Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
     "Start Screen
     Plug 'glepnir/dashboard-nvim'
@@ -37,4 +41,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "BufferLine
     Plug 'akinsho/nvim-bufferline.lua'
 
+    "Discord Presence
+    Plug 'andweeb/presence.nvim'
     call plug#end()

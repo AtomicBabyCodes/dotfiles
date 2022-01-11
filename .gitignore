@@ -55,13 +55,3 @@ volumeicon/
 xfce4/
 yad.conf
 yay/
-auto-pairs/
-dracula/
-nvim-bufferline.lua/
-plenary.nvim/
-telescope.nvim/
-dashboard-nvim/
-lualine.nvim/
-nvim-web-devicons/
-popup.nvim/
-vim-polyglot/
