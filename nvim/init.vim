@@ -1,0 +1,11 @@
+source $HOME/.config/nvim/vim-plug/plugins.vim
+source $HOME/.config/nvim/general/settings.vim
+source $HOME/.config/nvim/keys/mappings.vim
+source $HOME/.config/nvim/general/paths.vim
+source $HOME/.config/nvim/themes/dracula.vim
+source $HOME/.config/nvim/plug-config/coc.vim
+source $HOME/.config/nvim/plug-config/dashboard.vim
+source $HOME/.config/nvim/plug-config/telescope.lua
+source $HOME/.config/nvim/plug-config/lualine.lua
+source $HOME/.config/nvim/plug-config/bufferline.lua
+"source $HOME/.config/nvim/themes/cyberpunk.vim
