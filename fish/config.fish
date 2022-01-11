@@ -3,10 +3,10 @@ if status is-interactive
 end
 set fish_greeting
 alias tmux='tmux -u'
-alias a='nvim ~/.config/alacritty/alacritty.yml'
-alias aw='nvim ~/.config/awesome/rc.lua'
-alias f='nvim ~/.config/fish/config.fish'
-alias n='nvim ~/.config/nvim/init.vim'
+alias a='tmux attach-session -t alacritty'
+alias aw='tmux attach-session -t awesome'
+alias f='tmux attach-session -t fish'
+alias n='tmux attach-session -t nvim'
 alias cpu='auto-cpufreq --stats'
 alias clock='tty-clock -ct'
 alias audiobooks='cd /run/media/kishlaya/0A5219D40A5219D4/Audiobooks'
