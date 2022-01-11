@@ -12,12 +12,6 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'sheerun/vim-polyglot'
     Plug 'liuchengxu/vim-clap'
 
-    "VimClap
-    Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary' }
-    Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary!' }
-    Plug 'liuchengxu/vim-clap', { 'do': { -> clap#installer#force_download() } }
-    Plug 'liuchengxu/vim-clap', { 'do': has('win32') ? 'cargo build --release' : 'make' }
-
     " Auto pairs for '(' '[' '{'
     Plug 'jiangmiao/auto-pairs'
 
