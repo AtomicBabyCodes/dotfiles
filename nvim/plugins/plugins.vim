@@ -27,7 +27,14 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     
     "Colorizer
     Plug 'norcalli/nvim-colorizer.lua'
-    
+
+    "LazyGit 
+    Plug 'kdheepak/lazygit.nvim'
+
+    "Gitsigns
+    Plug 'nvim-lua/plenary.nvim'
+    Plug 'lewis6991/gitsigns.nvim'
+
     "Theme
     Plug 'dracula/vim', { 'as': 'dracula' }
 
@@ -40,6 +47,14 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 
     "BufferLine
     Plug 'akinsho/nvim-bufferline.lua'
+    
+    "Lsp + Autocompletion + Snippets
+    Plug 'neovim/nvim-lspconfig'
+    Plug 'hrsh7th/cmp-nvim-lsp'
+    Plug 'hrsh7th/cmp-buffer'
+    Plug 'hrsh7th/nvim-cmp'
+    Plug 'hrsh7th/cmp-vsnip'
+    Plug 'hrsh7th/vim-vsnip'
 
     "Discord Presence
     Plug 'andweeb/presence.nvim'

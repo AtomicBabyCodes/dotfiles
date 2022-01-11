@@ -34,3 +34,6 @@ nnoremap  <leader>rv :source $MYVIMRC<CR>
 nnoremap <leader>fw :lua require('telescope.builtin').grep_string( { search = vim.fn.input("Grep for > ") } )<cr>
 nnoremap <leader>ff :lua require'telescope.builtin'.find_files{ hidden = true }<cr>
 nnoremap <leader>fb <cmd>Telescope buffers<cr>
+
+"LazyGit Shortcut
+nnoremap <leader>g :LazyGit<CR>
