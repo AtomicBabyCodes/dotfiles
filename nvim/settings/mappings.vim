@@ -46,5 +46,5 @@ nnoremap <leader>r :NvimTreeRefresh<CR>
 nnoremap <space>r :Ranger<CR>
 
 "Python Shortcut
-nnoremap <C-R> :sp <CR> :term python % <CR>
-nnoremap <C-W> :bd!<CR>
+nnoremap <leader>r :vs <CR> :term python % <CR>
+nnoremap <leader>qq :bd!<CR>
