@@ -41,5 +41,10 @@ nnoremap <leader>g :LazyGit<CR>
 "Nvim-tree Shortcuts
 nnoremap <leader>t :NvimTreeToggle<CR>
 nnoremap <leader>r :NvimTreeRefresh<CR>
+
 "ranger
 nnoremap <space>r :Ranger<CR>
+
+"Python Shortcut
+nnoremap <C-R> :sp <CR> :term python % <CR>
+nnoremap <C-W> :bd!<CR>
