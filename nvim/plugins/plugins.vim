@@ -72,4 +72,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "ranger
     Plug 'francoiscabrol/ranger.vim'
     Plug 'rbgrouleff/bclose.vim'
+
+    "Commentary
+    Plug 'tpope/vim-commentary'
     call plug#end()

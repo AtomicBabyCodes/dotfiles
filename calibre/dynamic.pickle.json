@@ -1,4 +1,8 @@
 {
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
   "sort_history": [
     [
       "timestamp",

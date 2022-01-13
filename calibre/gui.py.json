@@ -46,10 +46,12 @@
   ],
   "jobs_search_history": [],
   "lrf_viewer_search_history": [],
-  "main_search_history": [],
+  "main_search_history": [
+    "last"
+  ],
   "main_window_geometry": {
     "__class__": "bytearray",
-    "__value__": "AdnQywADAAAAAAAKAAAAIwAAB3UAAAQtAAAACwAAACQAAAd0AAAELAAAAAAAAAAAB4AAAAALAAAAJAAAB3QAAAQs"
+    "__value__": "AdnQywADAAAAAAAAAAAAGQAAB38AAAQ3AAAACwAAACQAAAO5AAAELAAAAAACAAAAB4AAAAABAAAAGgAAB34AAAQ2"
   },
   "match_tags_type": "any",
   "new_version_notification": true,
