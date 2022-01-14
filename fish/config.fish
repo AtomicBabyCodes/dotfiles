@@ -4,6 +4,7 @@ end
 set fish_greeting
 alias tmux='tmux -u'
 alias a='cd ~/.config/alacritty && nvim'
+alias l='cd ~/programming/javascript/learning/basics-01-starting-project/ && nvim'
 alias p='cd ~/programming/'
 alias pp='cd ~/programming/python'
 alias aw='cd ~/.config/awesome && nvim'
